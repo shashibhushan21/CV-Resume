@@ -243,6 +243,9 @@ p{
     .intrest ul{
         grid-template-columns: repeat(2,1fr);
     }
+    a{
+        text-decoration: none;
+    }
 }
 @media(max-width:600px){
     .about .box{
@@ -256,6 +259,9 @@ p{
     }
     .skills .box{
         grid-template-columns: repeat(1,1fr);
+    }
+    a{
+        text-decoration: none;
     }
 
 }
