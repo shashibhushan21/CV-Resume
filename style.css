@@ -144,6 +144,9 @@ body {
 a{
     text-decoration: none;
 }
+a span{
+    text-decoration: none;
+}
 
 /* -----------Right-Side--------------- */
 
