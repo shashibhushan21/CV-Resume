@@ -92,6 +92,7 @@ body {
 }
 .contactInfo ul{
     position: relative;
+    /* text-wrap: nowrap; */
 
 }
 .contactInfo ul li{
@@ -139,6 +140,9 @@ body {
     left: 0;
     height:100%;
     background-color: var(--icon-color);
+}
+a{
+    text-decoration: none;
 }
 
 /* -----------Right-Side--------------- */
